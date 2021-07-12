@@ -21,6 +21,7 @@ spec:
   ingress:
     domain: ""
     externalDNS: false
+    kind: ingress
     namespaceSubDomain: -jx.
     tls:
       email: ""
